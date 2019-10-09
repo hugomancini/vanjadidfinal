@@ -2,9 +2,18 @@
 // Specific CSS for your home-page
 
 #logovanjadid {
-  width: 30% !important;
-  height: 30% !important;
+  width: 20% !important;
+  height: 20% !important;
 
+}
+
+#logo-container {
+  display: flex;
+  justify-content: space-around;
+  width: 60% !important;
+  height: 60% !important;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 
